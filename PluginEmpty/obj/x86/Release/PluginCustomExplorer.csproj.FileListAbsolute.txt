@@ -1,0 +1,4 @@
+C:\Users\klabacher\explorer\rainmeter-plugin-sdk\C#\PluginEmpty\x32\Release\PluginCustomExplorer.dll
+C:\Users\klabacher\explorer\rainmeter-plugin-sdk\C#\PluginEmpty\obj\x86\Release\PluginCustomExplorer.csproj.AssemblyReference.cache
+C:\Users\klabacher\explorer\rainmeter-plugin-sdk\C#\PluginEmpty\obj\x86\Release\PluginCustomExplorer.csproj.CoreCompileInputs.cache
+C:\Users\klabacher\explorer\rainmeter-plugin-sdk\C#\PluginEmpty\obj\x86\Release\PluginCustomExplorer.dll
